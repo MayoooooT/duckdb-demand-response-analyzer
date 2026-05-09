@@ -40,7 +40,7 @@ duckdb-demand-response-analyzer/
 ├── duckdb_project_demo.ipynb
 ├── README.md
 ├── requirements.txt
-└── Tong, May dsci551 final report.docx
+└── Tong, May dsci551 final report.pdf
 ```
 
 ---
